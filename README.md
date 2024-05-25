@@ -3,7 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
+  body {
+        background-image: url('céu.jpeg'); /* Imagem de fundo */
+        background-size: cover;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
