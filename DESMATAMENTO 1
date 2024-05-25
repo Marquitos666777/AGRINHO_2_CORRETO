@@ -27,13 +27,13 @@
     <section>
       <h2>Bem-vindo ao site de conscientização sobre desmatamento!</h2>
       <p>Este site tem como objetivo informar sobre as causas, impactos e possíveis soluções para o desmatamento.</p>
-      <img src="imagem1.jpg" alt="Desmatamento">
+      <img src="1.jpg" alt="Desmatamento">
     </section>
   </main>
 
 
   <footer>
-    <p>&copy; 2023 Desmatamento - Conscientização. Todos os direitos reservados.</p>
+    <p>&copy; 2024 Desmatamento - Conscientização. Todos os direitos reservados.</p>
   </footer>
 </body>
 </html>
