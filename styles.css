@@ -10,13 +10,11 @@ body {
 
 header, nav, main, footer {
  margin: 20px;
- text-align: center;
 }
 
 
 h1, h2 {
  color: #7FFF00 ;
- text-align: center;
 }
 
 
@@ -24,21 +22,18 @@ nav ul {
  list-style-type: none;
  margin: 0;
  padding: 0;
- text-align: center;
 }
 
 
 nav ul li {
  display: inline;
  margin-right: 10px;
- text-align: center;
 }
 
 
 nav ul li a {
  text-decoration: none;
  color: #333333;
- text-align: center;
 }
 
 
